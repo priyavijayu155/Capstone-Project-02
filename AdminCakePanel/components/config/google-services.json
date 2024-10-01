@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001417974948",
+    "project_id": "adminapp-207b0",
+    "storage_bucket": "adminapp-207b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001417974948:android:6bea8d5237dae9d45eb231",
+        "android_client_info": {
+          "package_name": "com.myadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDax3cfn1E6Ic0tqC_YNuFgs4mhBIL3-ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
